@@ -1,13 +1,15 @@
 ### Hi there | My Github Stats 👋
 
-![J3N0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center"> 
 	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
 </p>
+
+![J3N0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 📐 Languages and Tools
 <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
