@@ -1,6 +1,4 @@
-### Hi there | My Github Stats 👋
-
-
+<h1 align="center">### Hi there | My Github Stats 👋</h1>
 
 ![J3N0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st&theme=buefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
