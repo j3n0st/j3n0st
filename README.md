@@ -1,7 +1,7 @@
 ### Hi there | My Github Stats 👋
 
 <p align="center"> 
-	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
+	<img align="center" src="https://img.shields.io/badge/Profile%20Views-333-blue">
 <img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
 </p>
