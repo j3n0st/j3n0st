@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![J3N0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📐 Languages and Tools
 <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
