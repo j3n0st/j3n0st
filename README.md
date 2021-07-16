@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st)](https://github.com/anuraghazra/github-readme-stats)
+![J3N0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3n0st&theme=buefy&show_icons=true)
 
 ### 📐 Languages and Tools
 <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
